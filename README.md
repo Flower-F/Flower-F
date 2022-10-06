@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi, I'm a University student from China. Welcome to my personal website [yunhan.fun](https://yunhan.fun/) to have some fun!
+Hi, I'm a university student from SCUT in China. Welcome to my personal website [yunhan.fun](https://yunhan.fun/) to have some fun!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,7 +27,7 @@ Hi, I'm a University student from China. Welcome to my personal website [yunhan.
 <p align="center">
   <a href="https://github.com/flower-f">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flower-f&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flower-f&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flower-f&layout=compact&langs_count=8&theme=algolia&hide=html,ejs"/>
   </a>
 </p>
 
