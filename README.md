@@ -1,7 +1,7 @@
 <a href="https://github.com/pulls?q=author%3Aflower-f">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=flower-f&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows Flower-F's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=flower-f&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows Flower-F's GitHub Stats." align="center" width="480px" src="https://github-stats.liuli.lol/api?username=flower-f&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
@@ -12,11 +12,7 @@
 Hi, I'm a University student from China. Welcome to my personal website [yunhan.fun](https://yunhan.fun/) to have some fun!
 
 <a href="https://github.com/flower-f">
-  <img align="right" src="https://metrics.lecoq.io/flower-f?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-</a>
-
-<a href="https://github.com/flower-f">
-  <img align="right" src="https://metrics.lecoq.io/flower-f?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+  <img align="center" src="https://metrics.lecoq.io/flower-f?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
 </a>
 
 ### 🛠 &nbsp;Tech Stack
