@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi, I'm a university student from SCUT in China. Welcome to my personal website [yunhan.fun](https://yunhan.fun/) to have some fun!
+Hello world!
 
 ### 🛠 &nbsp;Tech Stack
 
